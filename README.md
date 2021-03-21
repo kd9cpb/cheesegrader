@@ -8,9 +8,9 @@ This code is featured in the story at https://kd9cpb.com/opp, and still has plen
 
 To use Cheesegrader, make sure PyYAML is installed (pip3 install pyyaml), and ensure the following three files are used correctly:
 
-students.yml - This is where your class roster and all grades are stored
-weights.yml - This sets the categories and assigns weights to said categories. Make sure total equals 100%.
-lettergrades.yml - This determines the grading scale. Default is 90 = A. If you're somewhere that an A = 93, make sure to update this accordingly.
+- students.yml - This is where your class roster and all grades are stored
+- weights.yml - This sets the categories and assigns weights to said categories. Make sure total equals 100%.
+- lettergrades.yml - This determines the grading scale. Default is 90 = A. If you're somewhere that an A = 93, make sure to update this accordingly.
 
 There's plenty of future improvement opportunites to this codebase. Here's a couple ideas:
 - Support grades like A-, B+, etc.
