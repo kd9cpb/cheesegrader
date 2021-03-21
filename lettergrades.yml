@@ -1,0 +1,12 @@
+---
+# Default: Public Community College Style
+A: 90
+B: 80
+C: 70
+D: 60
+
+# Optional: Private High School Style
+#A: 93
+#B: 85
+#C: 77
+#D: 70

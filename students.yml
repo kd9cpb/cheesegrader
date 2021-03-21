@@ -1,0 +1,24 @@
+---
+- tyler:
+  name: Tyler Smith
+  assignment: [90.0, 97.0, 75.0, 92.0]
+  lab: [88.0, 40.0, 94.0]
+  test: [75.0, 90.0]
+
+- alice:
+  name: Alice Jones
+  assignment: [100.0, 92.0, 98.0, 100.0]
+  lab: [82.0, 83.0, 91.0]
+  test: [89.0, 97.0]
+
+- lloyd:
+  name: Lloyd Doe
+  assignment: [0.0, 87.0, 75.0, 22.0]
+  lab: [0.0, 75.0, 78.0]
+  test: [100.0, 100.0]
+
+- steve:
+  name: Steve Sanders
+  assignment: [80.0, 87.0, 75.0, 22.0]
+  lab: [70.0, 75.0, 78.0]
+  test: [84.0, 92.0]
