@@ -20,3 +20,10 @@ There's plenty of future improvement opportunites to this codebase. Here's a cou
 - Use something like Django to produce nice web-friendly output
 - Send grades out via email
 - Fancier output of averaged grades
+
+
+Gigantic thanks to the following contributors, cheesegrader would have taken a much longer time to complete without them
+- https://www.geeksforgeeks.org/program-create-grade-calculator-in-python/
+- https://github.com/tomulent/learning-python/blob/master/Grade%20Book%20Challenge.py
+- https://gist.github.com/Temmyhlee/5a795a5e9d9eedc47ead87f9f62e5108
+- https://stackoverflow.com/questions/23309657/python-total-sum-of-a-list-of-numbers-with-the-for-loop/23309832
